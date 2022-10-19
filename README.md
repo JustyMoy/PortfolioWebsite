@@ -4,7 +4,7 @@ Portfolio Site including links to my projects and ways to get in contact with me
 **Link to project:** https://justinmoymke.netlify.app/
 
 
-![alt tag](https://user-images.githubusercontent.com/87396968/178868506-898407f2-ad5b-42ea-b758-fe527267053e.png)
+   <img src="https://media.giphy.com/media/uCoD3fryp5dnLEn9hT/giphy.gif" />
 
 
 ## How It's Made:
@@ -22,23 +22,24 @@ Seperation of Concerns. Realized how much easier it is to add css animations tha
   <tr>
     <td width="33.3%" valign="top">
     
-<a target="_blank" href="https://github.com/JustyMoy/HealthyCheatMealAPI"> Healthy Cheat Meals</a>
+<a target="_blank" href="https://github.com/JustyMoy/CheckList">Reminding Checklist</a>
         <br />
-      <a target="_blank" href="https://github.com/JustyMoy/HealthyCheatMealAPI">
-![alt tag](https://user-images.githubusercontent.com/87396968/179097309-b8ebcdb1-28db-4bfa-86d0-06d1e5b36bbd.png)
-        </a>
-    <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/JustyMoy/portfolioSalon"> MKE Color Salon</a>
-        <br />
-      <a target="_blank" href="https://github.com/JustyMoy/portfolioSalon">
-![alt tag](https://user-images.githubusercontent.com/87396968/179092262-1806e6a0-2595-4ed9-88d2-5d8ca214f255.png)
+      <a target="_blank" href="https://github.com/JustyMoy/CheckList">
+   <img src ="https://media.giphy.com/media/Vc6Pg0TjiUt1KC5tmY/giphy.gif" />
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/JustyMoy/randomRecipeGenerator"> Randon Recipe Generator</a>
+<a target="_blank" href="https://github.com/JustyMoy/Polls_python">Custom Polls Generator</a>
         <br />
-      <a target="_blank" href="https://github.com/JustyMoy/randomRecipeGenerator">
-![alt tag](https://user-images.githubusercontent.com/87396968/179095031-c2fe9829-1748-44c0-baa7-bcf55c3bd171.png)
+      <a target="_blank" href="https://github.com/JustyMoy/Polls_python">
+<img src="https://media.giphy.com/media/4teasaWqojvThCycpC/giphy.gif" />
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/JustyMoy/anabolicRecipeBlog">Anabolic Smorgasbord</a>
+        <br />
+      <a target="_blank" href="https://github.com/JustyMoy/anabolicRecipeBlog">
+<img src="https://media.giphy.com/media/8kToMEoYx5hpX5lcY4/giphy.gif" />
         </a>
     </td>
   </tr>
